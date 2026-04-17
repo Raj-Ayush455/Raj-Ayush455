@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Raj-Ayush455
 - 👀 I’m interested in Web Devlopment, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on various programming projects
 - 📫 How to reach me via email : rajayush455@gmail.com
 
